@@ -92,7 +92,7 @@ class HomeController extends Controller {
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 `framework-gaw` est une **base pédagogique** pour comprendre et construire un framework MVC en PHP avec des concepts modernes comme les namespaces et un point d’entrée unique.
 
