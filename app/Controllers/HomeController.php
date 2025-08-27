@@ -3,7 +3,7 @@
 class HomeController extends Controller
 {
     public function index(){
-        return view('home');
+        return view('home', ['message' => 'Bienvenue sur framework-gaw !']);
     }
 
     public function contact(){
